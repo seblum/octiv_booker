@@ -22,7 +22,7 @@ coverage = "^7.5.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^8.2.2"
-ruff = "^0.5.0"
+ruff = "^0.7.1"
 
 [tool.poetry.scripts]
 slotBooker = "slotbooker.main:main"
